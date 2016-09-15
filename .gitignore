@@ -47,3 +47,8 @@ Temporary Items
 .apdisk
 /.vs/ProductsApp/v14
 /.vs/config
+/EncryptorService/bin/Debug
+/EncryptorService/obj/Debug
+/SimpleEncryptor/bin/Debug
+/SimpleEncryptor/obj/Debug
+/.vs/SimpleEncryptor/v14
